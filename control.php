@@ -147,5 +147,5 @@ if ($link == false) {
 
 
 
-// header('Location: ./index.html');
+	 header('Location: ./index.html');
 ?>
